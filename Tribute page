@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Tribute</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+</head>
+<body>
+    <main id="main">
+        <h1 id="title">MAJOR SANDEEP UNNIKRISHNAN</h1>
+        <p>INDIAN COMMANDO</p>
+        <figure id="img-div">
+          <img
+            id="image"
+            src="https://www.postoast.com/wp-content/uploads/2023/03/Major-Sandeep-Unnikrishnan-1.jpg"
+            alt="Major Sandeep Unnikrishnan"
+          />
+         
+          <link rel="stylesheet" href="styles.css">
+          <figcaption id="img-caption">
+            <i>15 March 1977 – 28 November 2008</i>
+          </figcaption>
+        </figure>
+        <section id="tribute-info">
+          <p>
+            <ul>
+              <li>
+            <b>MAJOR SANDEEP UNNIKRISHNAN</b> was born on 15 March 1977 in Kozhikode, Kerala. Major Sandeep 
+            Unnikrishnan came from a Nair family residing in Bangalore, where they had moved from Cheruvannur,
+            in Kozhikode District of Kerala. He was the only son of retired ISRO officer K. Unnikrishnan and
+            Dhanalakshmi Unnikrishnan. Major Unnikrishnan spent 14 years at the Frank Anthony Public School in
+            Bangalore before graduating in 1995 in the Science stream. He wanted to join the Army, right from 
+            his school days and did well in school activities and sports events. He was also a member of the 
+            school choir and enjoyed watching movies.<br></li>
+            
+            <li><b>CAREER</b>Unnikrishnan joined the National Defence Academy (India)
+            (NDA), Pune, Maharashtra in 1995. He was a part of the Oscar Squadron (No. 4 Battalion) and a graduate 
+            of the 94th Course NDA.In Indian Military Academy (IMA), Dehradun, he was the part of 104th regular 
+            course. On 12 June 1999, he graduated from IMA and got commissioned as Lieutenant in the 7th Battalion 
+            of the Bihar Regiment[2] (Infantry) of Indian Army.[15] During Operation Vijay in July 1999, he was 
+            regarded positively at the forward posts in the face of heavy artillery firing and small arms fire by 
+            Pakistan troops. On the evening of 31 December 1999,[16] he led a team of six soldiers and established 
+            a post 200 metres from the opposing side and under direct observation and fire.<br></li>
+            
+            <li><b>ACHIEVEMENTS</b>
+            The official citation for the Ashoka Chakra Award reads:
+            IC-58660 MAJOR SANDEEP UNNIKRISHNAN BIHAR REGIMENT/51 SPECIAL ACTION GROUP (POSTHUMOUS)
+            Major Sandeep Unnikrishnan led the commando operation launched on 27th November 2008 to flush out 
+            terrorists from Hotel Taj Mahal, Mumbai in which he rescued 14 hostages.
+            During the operation, his team came under intense hostile fire, in which one of his team members got 
+            grievously injured. Major Sandeep pinned down the terrorists with accurate fire and rescued the injured 
+            commando to safety. In the process, he was shot in his right arm. Despite his injuries, he continued to 
+            fight the terrorists till his last breath.
+            Major Sandeep Unnikrishnan displayed most conspicuous bravery besides camaraderie and leadership of the 
+            highest order and made the supreme sacrifice for the nation.<br></li>
+            
+            <li><b>HONOUR</b> The Mother Dairy 
+            Double Road in Bengaluru, a 4.5 km (2.8 mi) stretch from Federal Mogul on Doddaballapur Road to MS 
+            Palya junction, within Yelahanka New Town, was renamed Major Sandeep Unnikrishnan Road in his 
+            honour.[30] A bust of Unnikrishnan is installed on Ramamurthy Nagar Outer Ring Road junction in 
+            Bangalore and is named in his honour.
+            There is a bust of Unnikrishnan at the entrance of Indian Education Society on Jogeshwari Vikhroli 
+            Link Road, Mumbai. An army housing complex at Whitefield, Bangalore is named 'Sandeep Vihar' and a 
+            bust of Unnikrishnan is installed in the center of Housing complex.</li>
+            </ul>
+          </p>
+        </section>
+      </main>
+</body>
+<style>
+    body{
+        background: #783937FF;
+    }
+    img{
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 500px;
+    }
+
+    h1{
+        text-align: center;
+        font-size:40px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        color:#E7E8D1;
+    }
+
+    p{
+        text-align: center;
+        font-size:25px;
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: 100;
+        color: #E7E8D1;
+    }
+
+    section{
+        color: #A7BEAE;
+        font-size: 25px;
+    }
+
+    figcaption{
+        text-align: center;
+        font-size: medium;
+        font-weight: bold;
+    }
+</style>
+</html>
